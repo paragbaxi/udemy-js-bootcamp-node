@@ -1,0 +1,26 @@
+{
+    "name": "udemy-js-bootcamp-node",
+    "version": "1.0.0",
+    "description": "udemy modern js bootcamp section 24",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/paragbaxi/udemy-js-bootcamp-node-list.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/paragbaxi/udemy-js-bootcamp-node-list/issues"
+    },
+    "homepage": "https://github.com/paragbaxi/udemy-js-bootcamp-node-list#readme",
+    "bin": {
+        "nls": "index.js"
+    },
+    "dependencies": {
+        "chalk": "^4.0.0"
+    }
+}
